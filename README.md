@@ -19,4 +19,4 @@ To do list
 4. Description field have maximum 3 lines text
 5. When user click save button, save all data into the databse. All field must be include. 
 6. When user click clear button, clear data in edittext .
-7. when user click show list button , show all data from database with listview/recyclerview in ShowListActivity.
+7.Add Fragment in ShowListActivity and Recyclerview/ListView on those fragment .When user click show list button , show all data from       database with listview/recyclerview in ShowListActivity.
